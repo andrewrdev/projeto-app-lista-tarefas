@@ -1,5 +1,5 @@
 # projeto-app-lista-tarefas
- 🔥 Projeto de um CRUD que lista, insere, edita e deleta tarefas, foi desenvolvido com PHP e MySQL!
+ 🔥 Projeto de um CRUD de tarefas, foi desenvolvido com PHP e MySQL!
 #
  - ⭐ App Lista de Tarefas!
  - 🚀 Feito durante o curso Desenvolvimento Web Completo - Udemy
